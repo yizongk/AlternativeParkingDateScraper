@@ -7,11 +7,12 @@ The downloaded file is of this format:
 soemthing will be filled here
 
 What you can do with it:
-something will be filled here
+Add it to your Google Calendar or something!
 
 Dependency
  - Python3
  - Pip (The python library package manager)
  - Pandas library (That you can install with Pip manager)
+ - lxml
 
  To Run
